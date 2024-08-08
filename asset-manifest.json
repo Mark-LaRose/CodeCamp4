@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeCamp4/static/css/main.9a2102a6.css",
+    "main.js": "/CodeCamp4/static/js/main.d74039a9.js",
+    "index.html": "/CodeCamp4/index.html",
+    "main.9a2102a6.css.map": "/CodeCamp4/static/css/main.9a2102a6.css.map",
+    "main.d74039a9.js.map": "/CodeCamp4/static/js/main.d74039a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2102a6.css",
+    "static/js/main.d74039a9.js"
+  ]
+}
